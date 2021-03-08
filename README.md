@@ -5,7 +5,6 @@
 - 💬 Ask me about machine learning, blockchain, cryptocurrency trading
 - 📫 How to reach me: vladjdk@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=photonized&show_icons=true&theme=tokyonight)
